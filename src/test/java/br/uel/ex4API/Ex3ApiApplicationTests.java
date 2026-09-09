@@ -1,4 +1,4 @@
-package br.uel.ex3API;
+package br.uel.ex4API;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
